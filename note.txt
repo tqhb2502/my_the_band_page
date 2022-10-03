@@ -1,0 +1,25 @@
+- link website mẫu: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+- công việc: 
+1. phân tích
+	1. header
+	2. slider
+	3. content
+		a. about
+		b. tour
+		c. contact
+		d. image
+	4. footer
+2. dựng base
+3. xây dựng từng phần theo phân tích
+4. hoàn thiện
+
+- các thành phần thường gặp:
+1. header (đầu trang)
+2. navigation (điều hướng)
+3. breadcrumb
+4. sidebar
+5. slider
+6. footer
+7. content
+8. banner
